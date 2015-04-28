@@ -1,4 +1,9 @@
 h1, h2, body {
 	font-family: 'Poiret One', cursive;
+}
+h1, h2{
 	font-weight: 300px;
+}
+body{
+	font-weight: 100px;
 }
