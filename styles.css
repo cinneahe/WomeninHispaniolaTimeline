@@ -7,3 +7,6 @@ h1, h2{
 body{
 	font-weight: 100px;
 }
+.vco-timeline, .vco-navigation, .timenav-background, .timenav-tag-row-1, .vco-timeline, .vco-navigation, .timenav-background, .timenav-tag-row-2{
+	background: blue !important;
+}
